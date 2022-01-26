@@ -1,1 +1,1 @@
-merge conflict checking.
+Merge conflict will happend.
