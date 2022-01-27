@@ -5,13 +5,13 @@ Hello, I'm learnig Git & Github with the help of stacklearner.
 Like my [Facebook](https://facebook.com/ohidbd) Profile.
 
 ## Initial Command (Create new repository on the command line)
-echo "# a" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/fsd-ohidur/***.git
-git push -u origin main
+* echo "# a" >> README.md
+* git init
+* git add README.md
+* git commit -m "first commit"
+* git branch -M main
+* git remote add origin https://github.com/fsd-ohidur/***.git
+* git push -u origin main
 
 ## Push an existing repository from the command line
 git remote add origin https://github.com/fsd-ohidur/a.git
